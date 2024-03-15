@@ -1,22 +1,22 @@
 {
-  "<img src=\"https://static.wikia.nocookie.net/shironekoproject/images/0/08/%E6%8F%90%E5%8A%A0%E6%B4%9B%E3%80%8C%E5%8F%AF%E4%BB%A5%E9%80%99%E5%BE%88Tiger%E3%80%8D.png/revision/latest?cb=20171020134427&path-prefix=zh\" style=\"width: 30px;top: 4px;position: relative;\" title=\"白貓\">":{
+  "<img src=\"https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/image/white_cat/1.webp\" style=\"width: 30px;top: 4px;position: relative;\" title=\"白貓\">":{
     "type":"image",
     "container":[
       {
         "text":"可以 這很Tiger",
-        "icon":"<img src='https://static.wikia.nocookie.net/shironekoproject/images/0/08/%E6%8F%90%E5%8A%A0%E6%B4%9B%E3%80%8C%E5%8F%AF%E4%BB%A5%E9%80%99%E5%BE%88Tiger%E3%80%8D.png/revision/latest?cb=20171020134427&path-prefix=zh'>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/image/white_cat/1.webp'>"
       },
       {
         "text":"快上車！！",
-        "icon":"<img src='https://static.wikia.nocookie.net/shironekoproject/images/e/eb/%E8%8C%B1%E6%9C%B1%E3%80%8C%E5%BF%AB%E4%B8%8A%E8%BB%8A%EF%BC%81%EF%BC%81%E3%80%8D.png/revision/latest?cb=20171020134432&path-prefix=zh'>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/image/white_cat/2.webp'>"
       },
       {
         "text":"？？？",
-        "icon":"<img src='https://static.wikia.nocookie.net/shironekoproject/images/1/10/%E6%89%98%E7%88%BE%E8%8C%9C%E3%80%8C%EF%BC%9F%EF%BC%9F%EF%BC%9F%E3%80%8D.png/revision/latest?cb=20171020134523&path-prefix=zh'>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/image/white_cat/3.webp'>"
       },
       {
         "text":"我的回合！",
-        "icon":"<img src='https://static.wikia.nocookie.net/shironekoproject/images/2/2d/%E8%92%BC%E3%80%8C%E6%88%91%E7%9A%84%E5%9B%9E%E5%90%88%EF%BC%81%E3%80%8D.png/revision/latest?cb=20171020134441&path-prefix=zh'>"
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/image/white_cat/4.webp'>"
       }
     ]
   }
