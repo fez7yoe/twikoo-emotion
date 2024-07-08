@@ -1,5 +1,5 @@
 {
-  "(*´∀`)~♥": {
+  "Kaomoji": {
     "type": "emoticon",
     "container": [
       { "icon": "(*´∀`)~♥", "text": "" },
@@ -31,7 +31,7 @@
       { "icon": ": ♡｡ﾟ.(*♡´◡` 人´◡` ♡*)ﾟ♡ °・", "text": "" }
     ]
   },
-  "😊": {
+  "Emoji": {
     "type": "emoji",
     "container": [
       { "icon": "😀", "text": "笑臉" },
@@ -122,7 +122,7 @@
       { "icon": "👿", "text": "惡魔" }
     ]
   },
-  "<img src=\"https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/gif/laugh/c4cc3d24f1d37b9f23948ebf5f98e204_w48_h48.gif\" style=\"width: 30px;top: 4px;position: relative;\" title=\"笑.gif\">": {
+  "GIF": {
     "type": "image",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/fez7yoe/twikoo-emotion@main/gif/laugh/8f64d9ef7382d9aa023e71fa9773c1b1_w48_h48.gif\">", "text": "laugh_1" },
